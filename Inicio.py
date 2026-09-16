@@ -31,3 +31,4 @@ print(f"Hola {nombre}, tu tienes {edad} años, y pesas {peso}")
 # Para poder mirar los ejemplos darle click derecho y seleccionar "Run Python" y despues "Run Python File In Terminal"
 # Así lo miran en la terminal, como primer ejercicio tendran que crear una encuesta donde se pregunte: nombre, edad, peso, y genero
 # Para al final mostrar en la terminal los datos obtenidos asi como yo lo hice en el ejemplo
+# La entrega de la tarea porfavor hacerla en el repositorio tarea 1, ponen el nombre y que tarea es, en este caso se llamaría tarea inicio
