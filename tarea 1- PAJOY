@@ -1,0 +1,8 @@
+print("encuesta")
+
+nombre = input("¿cual es tu nombre?")
+edad = int(input("¿cual es tu edad?"))
+peso = float(input("¿cual es tu peso?"))
+genero = input("¿cual es tu genero?")
+
+print("Hola", nombre, "tienes", edad, "años", "pesas", peso, "kg", "y te consideras", genero)
